@@ -1,0 +1,66 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/python:3.7.0-stretch-browsers
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      # - restore_cache:
+      #     keys:
+      #     - deps-{{ checksum "requirements.txt" }}
+      #     # fallback to using the latest cache if no exact match is found
+      #     - deps-
+
+      - run:
+          name: Install dependencies.
+          command: make venv
+
+      - save_cache:
+          paths:
+            - ./venv
+          key: deps-{{ checksum "requirements.txt" }}
+
+      - run:
+          name: Build the site.
+          command: |
+            make build
+
+
+  publish:
+    docker:
+      - image: circleci/python:3.7.0-stretch-browsers
+
+    working_directory: ~/repo
+
+    steps:
+      - checkout
+      # - restore_cache:
+      #     keys:
+      #     - deps-{{ checksum "requirements.txt" }}
+      #     - deps-
+
+      - add_ssh_keys:
+          fingerprints:
+            - "0b:0b:0f:19:89:13:94:a8:34:30:b4:13:cb:90:78:25"
+
+      - run:
+          name: Deploy the site.
+          command: |
+            make publish
+
+workflows:
+  version: 2
+  build-deploy:
+    jobs:
+      - build
+      - publish:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
