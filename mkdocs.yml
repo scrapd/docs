@@ -1,5 +1,5 @@
 site_name: ScrAPD
-pages:
+nav:
   - Home: index.md
   - Guides:
     - Keeping your branch up-to-date: 'guides/update-branch.md'
