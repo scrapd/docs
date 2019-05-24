@@ -1,63 +1,62 @@
+working_directory: &working_directory
+  ~/project
+
+defaults: &defaults
+  docker:
+    - image: circleci/python:3.7.2-stretch-node
+  working_directory: *working_directory
+
+repo_cache_key: &repo_cache_key
+  deps-{{ checksum "requirements.txt" }}
+
 version: 2
 jobs:
-  build:
-    docker:
-      - image: circleci/python:3.7.0-stretch-browsers
-
-    working_directory: ~/repo
-
+  prepare:
+    <<: *defaults
     steps:
       - checkout
-
-      # Download and cache dependencies
-      # - restore_cache:
-      #     keys:
-      #     - deps-{{ checksum "requirements.txt" }}
-      #     # fallback to using the latest cache if no exact match is found
-      #     - deps-
-
+      - restore_cache:
+          keys: *repo_cache_key
       - run:
-          name: Install dependencies.
+          name: Prepare environment
           command: make venv
-
       - save_cache:
           paths:
             - ./venv
-          key: deps-{{ checksum "requirements.txt" }}
-
-      - run:
-          name: Build the site.
-          command: |
-            make build
-
-
-  publish:
-    docker:
-      - image: circleci/python:3.7.0-stretch-browsers
-
-    working_directory: ~/repo
-
+          key: *repo_cache_key
+      - persist_to_workspace:
+          root: *working_directory
+          paths: venv/*
+  build:
+    <<: *defaults
     steps:
       - checkout
-      # - restore_cache:
-      #     keys:
-      #     - deps-{{ checksum "requirements.txt" }}
-      #     - deps-
-
+      - attach_workspace:
+          at: *working_directory
+      - run:
+          name: Build site
+          command: make build
+  publish:
+    <<: *defaults
+    steps:
+      - checkout
+      - attach_workspace:
+          at: *working_directory
       - add_ssh_keys:
           fingerprints:
-            - "0b:0b:0f:19:89:13:94:a8:34:30:b4:13:cb:90:78:25"
-
+            - "16:d6:67:78:1b:d1:1b:57:2a:c3:60:1c:92:4b:03:01"
       - run:
-          name: Deploy the site.
-          command: |
-            make publish
+          name: Publish site
+          command: make publish
 
 workflows:
   version: 2
   build-deploy:
     jobs:
-      - build
+      - prepare
+      - build:
+          requires:
+            - prepare
       - publish:
           requires:
             - build

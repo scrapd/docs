@@ -11,7 +11,7 @@ help: # Display help
 		}' $(MAKEFILE_LIST) | sort
 
 build: venv ## Build the documentatrion site
-	. venv/bin/activate && cd docs && mkdocs build -v -s
+	. venv/bin/activate && mkdocs build -v -s
 
 clean: ## Remove unwanted files in project (!DESTRUCTIVE!)
 	cd $(TOPDIR) && git clean -ffdx
@@ -19,10 +19,10 @@ clean: ## Remove unwanted files in project (!DESTRUCTIVE!)
 setup: venv ## Setup the full environment (default)
 
 publish: venv ## Publish the site to github pages
-	. venv/bin/activate && cd docs && mkdocs gh-deploy -v --clean
+	. venv/bin/activate && mkdocs gh-deploy -v --clean
 
 serve: venv ## Serve the documentation using the development server
-	. venv/bin/activate && cd docs && mkdocs serve
+	. venv/bin/activate && mkdocs serve
 
 venv: venv/bin/activate ## Setup local venv
 

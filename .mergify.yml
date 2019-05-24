@@ -1,10 +1,10 @@
-rules:
-  default:
-    protection:
-      required_pull_request_reviews:
-        required_approving_review_count: 1
-      required_status_checks:
-        contexts:
-        - 'ci/circleci: build'
-    merge_strategy:
+pull_request_rules:
+- actions:
+    merge:
       method: squash
+      rebase_fallback: merge
+  conditions:
+  - label!=no-mergify
+  - '#approved-reviews-by>=1'
+  - 'status-success=ci/circleci: build'
+  name: master
