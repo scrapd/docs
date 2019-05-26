@@ -1,6 +1,8 @@
 site_name: ScrAPD
 nav:
-  - Home: index.md
+  - Home:
+    - index.md
+    - How it works: how-it-works.md
   - Guides:
     - Keeping your branch up-to-date: 'guides/update-branch.md'
   - Learning:
