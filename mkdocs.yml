@@ -7,6 +7,10 @@ nav:
     - Keeping your branch up-to-date: 'guides/update-branch.md'
   - Learning:
     - Learning resources: 'learning/learning.md'
+  - Resources:
+    - Design: resources/design.md
+    - Statistics: resources/statistics.md
+    - Tools: resources/tools.md
 
 theme:
   name: material
