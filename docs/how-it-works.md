@@ -6,8 +6,6 @@ The pipeline has 2 branches. The first branch (on the left) is for the data extr
 
 The archived data are published between March and June of the following year (i.e.: CoA pusblished its 2018 data set in March 2019, TxDot dot is supposed to provide the 2018 data around June or July 2019).
 
-
-
 ![pipelines](img/scrapd-pipelines.svg)
 
 ## Current data (APD)
