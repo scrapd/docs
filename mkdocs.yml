@@ -3,14 +3,14 @@ nav:
   - Home:
     - index.md
     - How it works: how-it-works.md
-  - Guides:
-    - Keeping your branch up-to-date: 'guides/update-branch.md'
-  - Learning:
-    - Learning resources: 'learning/learning.md'
   - Resources:
     - Design: resources/design.md
+    - Other Cities: resources/other-cities.md
     - Statistics: resources/statistics.md
     - Tools: resources/tools.md
+  - Contributor zone:
+    - Learning resources: 'learning/learning.md'
+    - Keeping your branch up-to-date: 'guides/update-branch.md'
 
 theme:
   name: material
