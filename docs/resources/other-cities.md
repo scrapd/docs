@@ -8,6 +8,13 @@ What do other cities do?
 
 The [Vision Zero Network] is helping communities across the nation mobilize to address the crisis.
 
+## Alaska
+
+### Anchorage, AK
+
+- [Bike Anchorage]
+- [Vision Zero Anchorage]
+
 ## Arizona
 
 ### Tempe, AZ
@@ -17,15 +24,29 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 ## California
 
+- [Bike Silicon Valley]
+
 ### Los Angeles, CA
 
 - [Vision Zero LA]
 - [Vision Zero Alliance]
 
+### Sacramento, CA
+
+- [SAC Bike]
+- [Vision Zero Sacramento]
+- [Walk Sacramento]
+
 ### San Diego, CA
 
 - [Circulate SD]
 - [Vision Zero San Diego]
+
+### San Francisco, CA
+
+- [SF Bike]
+- [Vision Zero SF]
+- [Walk SF]
 
 ## Colorado
 
@@ -37,6 +58,13 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Denver]
 - [Walk Denver]
+
+## District of Columbia
+
+### Washington, DC
+
+- [Vision Zero DC]
+- [Washington Area Bicyclist Assosiation]
 
 ## Florida
 
@@ -71,11 +99,22 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 ## Massachusetts
 
+- [Livable Streets]
+- [Massachusetts Vision Zero Coalition]
+
 ### Boston, MA
 
 - [Vision Zero Boston]
 - [Vision Zero View Boston]
 - [Walk Boston]
+
+### Cambridge, MA
+
+- [Vision Zero Cambridge]
+
+### Somerville, MA
+
+- [Vision Zero Somerville]
 
 ## Minnesota
 
@@ -92,6 +131,13 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Columbia]
 - [Vision Zero Columbia Coalition]
+
+## New Jersey
+
+### Jersey City, NJ
+
+- [Safe Streets JC]
+- [Vision Zero JC]
 
 ## New York
 
@@ -116,6 +162,13 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 ### Eugene, Oregon
 
 - [Vision Zero Eugene]
+
+## Pennsylvania
+
+### Philadelphia, PA
+
+- [Bicycle Coalition of Greater Philadelphia]
+- [Vision Zero Philadelphia]
 
 ### Portland, Oregon
 
@@ -147,6 +200,16 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero SA]
 
+## Virginia
+
+### Alexandria, VA
+
+- [Vision Zero Alexandria]
+
+### Richmond, VA
+
+- [Vision Zero Richmond]
+
 ## Washington
 
 ### Bellevue, WA
@@ -160,17 +223,34 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 [//]: # (Nation wide)
 [Vision Zero Network]: https://visionzeronetwork.org
 
+[//]: # (Alaska, Anchorage)
+[Bike Anchorage]: https://www.bikeanchorage.org/vision_zero
+[Vision Zero Anchorage]: http://www.muni.org/Departments/OCPD/Planning/AMATS/Pages/visionzero.aspx
+
 [//]: # (Arizona, Tempe)
 [Bike Tempe]: https://www.biketempe.org/
 [Vision Zero Tempe]: https://www.tempe.gov/government/engineering-and-transportation/transportation/vision-zero
+
+[//]: # (California)
+[Bike Silicon Valley]: https://bikesiliconvalley.org/vision-zero/
 
 [//]: # (California, Los Angeles)
 [Vision Zero LA]: http://visionzero.lacity.org/
 [Vision Zero Alliance]: http://www.visionzeroalliance.org/
 
+[//]: # (California, Sacramento)
+[SAC Bike]: https://sacbike.org/vision-zero/
+[Vision Zero Sacramento]: https://www.cityofsacramento.org/public-works/transportation/programs-and-services/vision-zero
+[Walk Sacramento]: http://www.walksacramento.org/vision-zero/
+
 [//]: # (California, San Diego)
 [Circulate SD]: http://www.circulatesd.org/visionzerosd
 [Vision Zero San Diego]: https://www.sandiego.gov/vision-zero
+
+[//]: # (California, San Diego)
+[SF Bike]: https://sfbike.org/our-work/safety-education/vision-zero/
+[Vision Zero SF]: https://www.visionzerosf.org/
+[Walk SF]: https://walksf.org/our-work/campaigns/vision-zero/
 
 [//]: # (Colorado, Boulder)
 [Vision Zero Boulder]: https://bouldercolorado.gov/transportation/vision-zero
@@ -178,6 +258,10 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 [//]: # (Colorado, Denver)
 [Vision Zero Denver]: https://www.denvergov.org/content/denvergov/en/vision-zero.html
 [Walk Denver]: http://www.walkdenver.org/vision-zero/
+
+[//]: # (District of Columbia, Washington)
+[Washington Area Bicyclist Assosiation]: https://www.waba.org/advocacy/campaigns/vision-zero/
+[Vision Zero DC]: https://www.dcvisionzero.com/
 
 [//]: # (Florida, Fort Lauderdale)
 [Vision Zero Fort Lauderdale]: https://www.fortlauderdale.gov/departments/transportation-and-mobility/transportation-division/vision-zero-fort-lauderdale
@@ -198,10 +282,24 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 [//]: # (Illinois, Chicago)
 [Vision Zero Chicago]: http://visionzerochicago.org/
 
+[//]: # (New Jersey, Jersey City)
+[Safe Streets JC]: https://safestreetsjc.org/
+[Vision Zero JC]: http://www.visionzerojc.com/
+
+[//]: # (Massachusetts)
+[Livable Streets]: https://www.livablestreets.info/
+[Massachusetts Vision Zero Coalition]: https://www.visionzerocoalition.org/
+
 [//]: # (Massachusetts, Boston)
 [Vision Zero Boston]: https://www.boston.gov/transportation/vision-zero
 [Vision Zero View Boston]: http://app01.cityofboston.gov/visionzero/
 [Walk Boston]: https://walkboston.org/
+
+[//]: # (Massachusetts, Cambridge)
+[Vision Zero Cambridge]: https://www.cambridgema.gov/traffic/sustainabletransportation/visionzero
+
+[//]: # (Massachusetts, Somerville)
+[Vision Zero Somerville]: https://www.somervillema.gov/visionzero
 
 [//]: # (Minnesota, Minneapolis)
 [Minneapolis 2040]: https://minneapolis2040.com/policies/vision-zero/
@@ -230,6 +328,10 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 [//]: # (Oregon, Portland)
 [Vision Zero Portland]: https://www.portlandoregon.gov/transportation/71730
 
+[//]: # (Pennsylvania, Philadelphia)
+[Bicycle Coalition of Greater Philadelphia]: https://bicyclecoalition.org/
+[Vision Zero Philadelphia]: http://visionzerophl.com/
+
 [//]: # (Texas)
 [Bike Texas]: https://www.biketexas.org/
 [Vision Zero Texas]: http://visionzerotexas.org/
@@ -251,6 +353,12 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 [//]: # (Texas, San Antonio)
 [Vision Zero SA]: https://www.visionzerosa.com/
+
+[//]: # (Virginia, Alexandria)
+[Vision Zero Alexandria]: https://www.alexandriava.gov/VisionZero
+
+[//]: # (Virginia, Richmond)
+[Vision Zero Richmond]: http://www.richmondgov.com/PublicWorks/VisionZero.aspx
 
 [//]: # (Washington, Bellevue)
 [Vision Zero Bellevue]: https://transportation.bellevuewa.gov/safety-and-maintenance/traffic-safety/vision-zero
