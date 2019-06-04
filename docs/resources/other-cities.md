@@ -2,6 +2,8 @@
 
 What do other cities do?
 
+![Vision Zero Network](https://visionzeronetwork.org/wp-content/uploads/2019/04/vision-zero-cities-feb-2019.png)
+
 ## Nation wide
 
 ### Vision Zero Network
@@ -26,10 +28,18 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Bike Silicon Valley]
 
+### Fremont, CA
+
+- [Vision Zero Fremont]
+
 ### Los Angeles, CA
 
 - [Vision Zero LA]
 - [Vision Zero Alliance]
+
+### Monterey, CA
+
+- [Vision Zero Monterey]
 
 ### Sacramento, CA
 
@@ -47,6 +57,22 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 - [SF Bike]
 - [Vision Zero SF]
 - [Walk SF]
+
+### San Jose, CA
+
+- [Vision Zero San Jose]
+
+### San Luis Obispo, CA
+
+- [Vision Zero San Luis Obispo]
+
+### Santa Barbara, CA
+- [COAST]
+- [SB Bike]
+
+### Watsonville, CA
+
+- [Vision Zero Watsonville]
 
 ## Colorado
 
@@ -234,9 +260,15 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 [//]: # (California)
 [Bike Silicon Valley]: https://bikesiliconvalley.org/vision-zero/
 
+[//]: # (California, Fremont)
+[Vision Zero Fremont]: https://fremont.gov/2594/Fremont-Vision-Zero-2020
+
 [//]: # (California, Los Angeles)
 [Vision Zero LA]: http://visionzero.lacity.org/
 [Vision Zero Alliance]: http://www.visionzeroalliance.org/
+
+[//]: # (California, Monterey)
+[Vision Zero Monterey]: https://monterey.org/Services/Public-Works/Traffic-Engineering/Vision-Zero-Monterey
 
 [//]: # (California, Sacramento)
 [SAC Bike]: https://sacbike.org/vision-zero/
@@ -247,10 +279,23 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 [Circulate SD]: http://www.circulatesd.org/visionzerosd
 [Vision Zero San Diego]: https://www.sandiego.gov/vision-zero
 
-[//]: # (California, San Diego)
+[//]: # (California, San Francisco)
 [SF Bike]: https://sfbike.org/our-work/safety-education/vision-zero/
 [Vision Zero SF]: https://www.visionzerosf.org/
 [Walk SF]: https://walksf.org/our-work/campaigns/vision-zero/
+
+[//]: # (California, San Jose)
+[Vision Zero San Jose]: http://www.sanjoseca.gov/VisionZero
+
+[//]: # (California, San Luis Obispo)
+[Vision Zero San Luis Obispo]: https://www.slocity.org/Home/Components/News/News/4795/
+
+[//]: # (California, Santa Barbara)
+[COAST]: http://coast-santabarbara.org/vision-zero/
+[SB Bike]: http://www.sbbike.org/vision_zero
+
+[//]: # (California, Watsonville)
+[Vision Zero Watsonville]: https://www.cityofwatsonville.org/1612/Vision-Zero
 
 [//]: # (Colorado, Boulder)
 [Vision Zero Boulder]: https://bouldercolorado.gov/transportation/vision-zero
