@@ -27,6 +27,7 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 ## California
 
 - [Bike Silicon Valley]
+- [California Walks]
 
 ### Fremont, CA
 
@@ -67,6 +68,7 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 - [Vision Zero San Luis Obispo]
 
 ### Santa Barbara, CA
+
 - [COAST]
 - [SB Bike]
 
@@ -174,13 +176,14 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 ## North Carolina
 
+- [NC Vision Zero]
+
 ### Charlotte, NC
 
 - [Vision Zero Charlotte]
 
 ### Durham, NC
 
-- [NC Vision Zero]
 - [Vision Zero Durham]
 
 ## Oregon
@@ -189,16 +192,16 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Eugene]
 
+### Portland, Oregon
+
+- [Vision Zero Portland]
+
 ## Pennsylvania
 
 ### Philadelphia, PA
 
 - [Bicycle Coalition of Greater Philadelphia]
 - [Vision Zero Philadelphia]
-
-### Portland, Oregon
-
-- [Vision Zero Portland]
 
 ## Texas
 
@@ -259,6 +262,7 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 [//]: # (California)
 [Bike Silicon Valley]: https://bikesiliconvalley.org/vision-zero/
+[California Walks]: https://californiawalks.org/
 
 [//]: # (California, Fremont)
 [Vision Zero Fremont]: https://fremont.gov/2594/Fremont-Vision-Zero-2020
