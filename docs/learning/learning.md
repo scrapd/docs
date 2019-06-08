@@ -44,6 +44,10 @@ to using REST APIs, via unit tests. <http://getpython3.com/diveintopython3/>
 __The Hitchhiker’s Guide to Python!__ is also a classic. An opiniated handbook which aims at making you a python expert.
 <https://docs.python-guide.org/>
 
+### Kubernetes
+
+A bed time story to learn kubernetes: [The illustrated childrens guide to Kubernetes](https://cdn.chrisshort.net/The-Illustrated-Childrens-Guide-to-Kubernetes.pdf).
+
 ## Advanced
 
  _"I'm here to serve you master."_
