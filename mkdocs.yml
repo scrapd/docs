@@ -3,6 +3,7 @@ nav:
   - Home:
     - index.md
     - How it works: how-it-works.md
+    - Contributors: contributors.md
   - Resources:
     - Design: resources/design.md
     - Other Cities: resources/other-cities.md
