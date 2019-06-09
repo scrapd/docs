@@ -2,8 +2,9 @@ site_name: ScrAPD
 nav:
   - Home:
     - index.md
-    - How it works: how-it-works.md
-    - Contributors: contributors.md
+    - how-it-works.md
+    - contributors.md
+    - who-is-using-us.md
   - Resources:
     - Design: resources/design.md
     - Other Cities: resources/other-cities.md
