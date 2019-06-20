@@ -38,4 +38,4 @@ Place the URL of the issue here it this PR fixes an existing issue.
 Use either the *FULL* URL (preferred) or the `Username/Repository#`
 syntax.
 -->
-Fixes request-yo-racks/docs#<issue_number>
+Fixes scrapd/docs#<issue_number>
