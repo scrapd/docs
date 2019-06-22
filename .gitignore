@@ -3,6 +3,7 @@
 .cache
 .coverage
 .tox
+.vscode/
 __pycache__/
 api.egg-info
 celerybeat-schedule
