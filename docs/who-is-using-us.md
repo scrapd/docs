@@ -10,4 +10,10 @@ They also used ScrAPD to compile a detailed presentation of the status of the tr
 
 ## Walk austin
 
+![WalkAustin](img/logos/walkaustin.png)
+
 [Walk Austin](http://www.walkaustintx.org/) uses ScrAPD for their monthly meetings.
+
+## Farm&City
+
+[Farm&city](http://www.farmandcity.org/) uses ScrAPD.
