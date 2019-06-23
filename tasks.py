@@ -1,4 +1,16 @@
+from pathlib import Path
+
 from invoke import task
+from nox.virtualenv import VirtualEnv
+
+DEFAULT_VENV_NAME = 'venv'
+
+
+@task
+def build(c):
+    """Build the documentatrion site."""
+    mkdocs = mkdocs_bin()
+    c.run(f'{mkdocs} build -v -s')
 
 
 @task
@@ -23,7 +35,30 @@ def nox(c, s=''):
         c.run(f'nox -s {s}')
 
 
+@task
+def publish(c):
+    """Publish the site to github pages."""
+    mkdocs = mkdocs_bin()
+    c.run(f'{mkdocs} gh-deploy -v --clean')
+
+
+@task()
+def serve(c):
+    """Serve the documentation using the development server."""
+    mkdocs = mkdocs_bin()
+    c.run(f'{mkdocs} serve')
+
+
 @task(default=True)
 def setup(c):
     """Setup the developper environment."""
     c.run('nox --envdir .')
+
+
+def mkdocs_bin():
+    """Find mkdocs binary in default venv."""
+    location = Path(DEFAULT_VENV_NAME)
+    venv = VirtualEnv(location.resolve())
+    venv_bin = Path(venv.bin)
+    mkdocs = venv_bin / 'mkdocs'
+    return mkdocs
