@@ -7,7 +7,7 @@ defaults: &defaults
   working_directory: *working_directory
 
 repo_cache_key: &repo_cache_key
-  deps-{{ checksum "requirements.txt" }}
+  deps-{{ checksum "requirements.txt" }}.0
 
 version: 2
 jobs:
@@ -16,10 +16,15 @@ jobs:
     steps:
       - checkout
       - restore_cache:
-          keys: *repo_cache_key
+          key: *repo_cache_key
       - run:
           name: Prepare environment
-          command: make venv
+          command: |
+            python -m venv venv
+            source venv/bin/activate
+            pip install --upgrade pip setuptools
+            pip install invoke nox
+            inv
       - save_cache:
           paths:
             - ./venv
@@ -35,7 +40,9 @@ jobs:
           at: *working_directory
       - run:
           name: Build site
-          command: make build
+          command: |
+            source venv/bin/activate
+            inv build
   publish:
     <<: *defaults
     steps:
@@ -47,7 +54,9 @@ jobs:
             - "16:d6:67:78:1b:d1:1b:57:2a:c3:60:1c:92:4b:03:01"
       - run:
           name: Publish site
-          command: make publish
+          command: |
+            source venv/bin/activate
+            inv publish
 
 workflows:
   version: 2
