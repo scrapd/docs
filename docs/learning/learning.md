@@ -51,3 +51,13 @@ A bed time story to learn kubernetes: [The illustrated childrens guide to Kubern
 ## Advanced
 
  _"I'm here to serve you master."_
+ 
+### Python
+ 
+#### Refactoring
+ 
+At some point, your application will grow and you will need to trim a little. When time comes, this [refactoring guide](https://realpython.com/python-refactoring/) will prove handy.
+ 
+#### Anti-patterns
+
+A small book of [Python anti-patterns and worst practices](https://docs.quantifiedcode.com/python-anti-patterns/). Learn them to avoid them!
