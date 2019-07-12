@@ -17,12 +17,23 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 - [Bike Anchorage]
 - [Vision Zero Anchorage]
 
+In Anchorage, they focus on the 5 E's:
+
+- Engineering and Infrastructure
+- Education
+- Evaluation
+- Encouragement
+- Enforcement
+
 ## Arizona
 
 ### Tempe, AZ
 
 - [Bike Tempe]
 - [Vision Zero Tempe]
+
+    - [Vision Zero Dashboard](https://tempegov.maps.arcgis.com/apps/MapJournal/index.html?appid=41b2302d057f49bfb3c0abb5fd6fa586)
+    - [Crash Statistics Dashboard](https://tempegov.maps.arcgis.com/apps/opsdashboard/index.html#/7168c52abcad4c1c87289d30f679e353)
 
 ## California
 
@@ -36,6 +47,9 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 ### Los Angeles, CA
 
 - [Vision Zero LA]
+
+    - [Vision Zero Map](http://visionzero.lacity.org/map/)
+
 - [Vision Zero Alliance]
 
 ### Monterey, CA
@@ -51,12 +65,40 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 ### San Diego, CA
 
 - [Circulate SD]
+
+    - Consolidation of multiple organizations into one
+
+        - Circulate planing: consulting arm working with public agencies.
+        - Policy and advocacy:
+
+            - Vision Zero
+            - Land use and affordability
+            - Transportation and planning
+            - Regional walk scorecard
+
+        - Circulate Mobility Certification: provides recognition and support for transit-oriented, smart growth projects in the San Diego region.
+        - Transit for fun: #TransitForFun initiative is all about using transit to access fun destinations in San Diego.
+
 - [Vision Zero San Diego]
+
+    - Collision viewer
+    - High Crash analysis & improvement viewer
 
 ### San Francisco, CA
 
 - [SF Bike]
 - [Vision Zero SF]
+
+    - Focus on the 4 E's (similar to Anchorage, AK)
+
+        - Education
+        - Engineering
+        - Enforcement
+        - Evaluation
+
+    - [Vision Zero maps](http://sfgov.maps.arcgis.com/apps/webappviewer/index.html?id=fa37f1274b4446f1bdddd7bdf9e708ff)
+    - [Vision Zero Priority Projects](http://sfgov.maps.arcgis.com/apps/webappviewer/index.html?id=13d93fa4bdc04bc3935a6e36139e27d9)
+
 - [Walk SF]
 
 ### San Jose, CA
@@ -70,7 +112,12 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 ### Santa Barbara, CA
 
 - [COAST]
+
+    - Coalition for sustainable transportation (similar to Circulate SD)
+
 - [SB Bike]
+
+    - [Collision Heatmap](http://www.sbbike.org/vision_zero)
 
 ### Watsonville, CA
 
@@ -82,9 +129,44 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Boulder]
 
+    - [Vision Zero Dashboard](https://bouldercolorado.gov/boulder-measures/vision-zero-safe-streets-boulder)
+    - [Interactive maps](https://boulder.maps.arcgis.com/apps/MapSeries/index.html?appid=907a7532db3f41fc9ca94bc22b6ae804)
+
+        - Motor vehicle collisions
+        - Bikes and pedestrians collisions
+        - Engineering
+        - Education
+        - Enforcement
+        - Close calls
+        - Heads up
+
+    - Lots of reports, resources and infographics
+
 ### Denver, CO
 
 - [Vision Zero Denver]
+
+    - 5 key goals
+
+        - [Process & collaboration](https://www.denvergov.org/content/denvergov/en/vision-zero/process.html)
+        - [Safe streets](https://www.denvergov.org/content/denvergov/en/vision-zero/safe-streets.html)
+        - [Safe speeds](https://www.denvergov.org/content/denvergov/en/vision-zero/safe-speeds.html)
+        - [Culture of safety](https://www.denvergov.org/content/denvergov/en/vision-zero/culture-of-safety.html)
+        - [Data and transparency](https://www.denvergov.org/content/denvergov/en/vision-zero/data-transparency.html)
+
+    - Very nice infographics and visuals
+    - [Interactive maps](https://geospatialdenver.maps.arcgis.com/apps/MapJournal/index.html?appid=e333ca7679ec40c2a3ef449e3b111743)
+
+        - Vision Zero High Injury Network
+        - Communities of Concern
+        - Older Adults and No Vehicle Ownership
+        - Children and School Areas
+        - People with Disabilities
+        - Socio-Economics
+        - Health
+        - Safety
+        - Priority High Injury Network Segments
+
 - [Walk Denver]
 
 ## District of Columbia
@@ -92,7 +174,13 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 ### Washington, DC
 
 - [Vision Zero DC]
+
+    - [Progress tracking](https://www.dcvisionzero.com/action-plan)
+    - [Dashboard](https://www.dcvisionzero.com/maps-data)
+
 - [Washington Area Bicyclist Assosiation]
+
+    - Intersection scorecards
 
 ## Florida
 
@@ -100,9 +188,14 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Fort Lauderdale]
 
+    - [Dashboard](https://fortlauderdale.maps.arcgis.com/apps/opsdashboard/index.html#/55757f935f9347748adfc61b5152946e)
+    - Progress tracking
+
 ### Hillsborough County, FL
 
 - [Vision Zero Hillsborough]
+
+    - Open Data Portal (similar to Austin's)
 
 ### Orlando, FL
 
@@ -130,10 +223,17 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 - [Livable Streets]
 - [Massachusetts Vision Zero Coalition]
 
+    - [Pedestrian and bicyclist fatalities map](https://www.visionzerocoalition.org/fatalities_map)
+    - [Progress tracking for all the Vision Zero cities in Massachusetts](https://www.visionzerocoalition.org/progress)
+
 ### Boston, MA
 
 - [Vision Zero Boston]
-- [Vision Zero View Boston]
+
+    - [Safety concern map](http://app01.cityofboston.gov/VZSafety/)
+    - [Vision Zero View Boston] (Similar viewer to NYC viewer)
+    - [Dashboard](https://dashboard.cityofboston.gov/t/BostonTransportationDepartment/views/Ped-cycle-mvcrashes-dedup/EMSIncidents?iframeSizedToWindow=true&:embed=y&:showAppBanner=false&:display_count=no&:showVizHome=no)
+
 - [Walk Boston]
 
 ### Cambridge, MA
@@ -144,6 +244,8 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Somerville]
 
+    - Dashboard
+
 ## Minnesota
 
 ### Minneapolis, MN
@@ -151,6 +253,9 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 - [Minneapolis 2040]
 - [Our Streets MPLS]
 - [Vision Zero MPLS]
+
+    - [Inforgraphics](https://www.visionzerompls.com/safety-data)
+
 - [Vision Zero Minneapolis]
 
 ## Missouri
@@ -159,6 +264,15 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Columbia]
 - [Vision Zero Columbia Coalition]
+
+    - Online tool to report a crash or an infrastructure concern
+    - [Dashboard](http://www.comovisionzero.org/maps-data)
+    - Vision Zero Action Plan guiding principles
+
+        - Equitable
+        - Data-driven
+        - Accountable
+        - Partnership
 
 ## New Jersey
 
@@ -172,15 +286,31 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 ### New York, NY
 
 - [NYC Vision Zero]
-- [Vision Zero View NYC]
+
+    - [Vision Zero View NYC]
+    - [Open Data Portal](https://opendata.cityofnewyork.us/)
 
 ## North Carolina
 
 - [NC Vision Zero]
 
+    - [Crash Query Tool](https://ncvisionzero.org/visualizations/crashquerytool)
+    - [Goal Tracking Dashboard](https://ncvisionzero.org/visualizations/goal-tracking-dashboard)
+    - [Distracted Driving](https://ncvisionzero.org/visualizations/distracted-driving)
+    - [Commercial Vehicle Crashes](https://ncvisionzero.org/visualizations/commercial-vehicle-crashes-in-nc)
+    - [Vision Zero Maps](https://ncvisionzero.org/visualizations/vision-zero-maps)
+    - [Safety Dashboard](https://ncvisionzero.org/visualizations/safety-dashboard)
+
 ### Charlotte, NC
 
 - [Vision Zero Charlotte]
+
+    - Interactive map
+    - Infographics
+
+        - [Fact Sheet](https://charlottenc.gov/Transportation/Programs/Documents/VZ_FactSheet.pdf)
+        - [Vision Zero Board](https://charlottenc.gov/Transportation/Programs/Documents/VZ_boards_english.pdf)
+
 
 ### Durham, NC
 
@@ -192,9 +322,15 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Eugene]
 
+    - [Tool to identify and report transportation hazards and dangerous traffic behaviors](http://eugene-pwe.maps.arcgis.com/apps/CrowdsourceReporter/index.html?appid=2a5443435f8745b68066590b03b54db0)
+
 ### Portland, Oregon
 
 - [Vision Zero Portland]
+
+    - [Portland Strategy Guides](https://www.portlandoregon.gov/transportation/71730)
+    - [Progress Tracking](https://www.portlandoregon.gov/transportation/74093)
+    - [Crash Map](https://pdx.maps.arcgis.com/apps/MapSeries/index.html?appid=5385b143768c445db915a9c7fad32ebe)
 
 ## Pennsylvania
 
@@ -235,6 +371,9 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Alexandria]
 
+    - [Vision Zero Performance Dashboard](https://www.alexandriava.gov/performance/info/dashboard.aspx?id=101066)
+    - [Performance Dashboard](https://www.alexandriava.gov/performance/info/dashboard.aspx?id=105407)
+
 ### Richmond, VA
 
 - [Vision Zero Richmond]
@@ -245,9 +384,15 @@ The [Vision Zero Network] is helping communities across the nation mobilize to a
 
 - [Vision Zero Bellevue]
 
+    - [Crash Map](https://cobgis.maps.arcgis.com/apps/MapSeries/index.html?appid=8964b232b8ec4a0180e0b56b1c29071d)
+
 ### Seattle, WA
 
 - [Vision Zero Seattle]
+
+    - [Speed Limit Map](https://www.seattle.gov/transportation/projects-and-programs/safety-first/vision-zero/speedlimits)
+    - [Bike Counters](https://www.seattle.gov/transportation/projects-and-programs/programs/bike-program/bike-counters)
+    - [Bicycle Level of Traffic Stress Map](https://www.seattle.gov/transportation/projects-and-programs/safety-first/vision-zero/resources/bicycle-level-of-traffic-stress)
 
 [//]: # (Nation wide)
 [Vision Zero Network]: https://visionzeronetwork.org
