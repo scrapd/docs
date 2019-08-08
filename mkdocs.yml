@@ -12,6 +12,7 @@ nav:
     - Tools: resources/tools.md
   - Contributor zone:
     - Learning resources: 'learning/learning.md'
+    - Developer setup: 'learning/developer.md'
     - Keeping your branch up-to-date: 'guides/update-branch.md'
 
 theme:
