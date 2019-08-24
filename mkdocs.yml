@@ -12,7 +12,9 @@ nav:
     - Tools: resources/tools.md
   - Contributor zone:
     - Learning resources: 'learning/learning.md'
+    - Developer setup: 'learning/developer.md'
     - Keeping your branch up-to-date: 'guides/update-branch.md'
+    - Installing Python 3 on Windows 10: 'guides/install-python-win.md'
 
 theme:
   name: material

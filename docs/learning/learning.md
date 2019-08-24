@@ -1,7 +1,7 @@
 # Learning resources
 
-Sometimes people are affraid to tackle a task or join a project because they think they do not have the appriopriate
-knoweldge. While it might sometimes be true, we, at Request Yo Racks, consider our projects as the best opportunity to
+Sometimes people are afraid to tackle a task or join a project because they think they do not have the appropriate
+knowledge. While it might sometimes be true, we, at Scrapd, consider our projects as the best opportunity to
 learn! And to make it easier for you to learn the ropes, we compiled the best resources!
 
 ## Beginners
@@ -20,7 +20,7 @@ An interactive tutorial that will reconcile you with the terminal.
 <https://linuxsurvival.com/linux-tutorial-introduction>
 
 
-A tutorial dividded in 13 sections to bring you from newbie to moderate wizard.
+A tutorial divided in 13 sections to bring you from newbie to moderate wizard.
 <https://ryanstutorials.net/linuxtutorial>
 
 ### Git/GitHub
